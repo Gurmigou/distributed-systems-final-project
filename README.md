@@ -1,0 +1,1 @@
+Docker compose file та Dockerfile знаходяться у папці distributed-systems-rest
